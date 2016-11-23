@@ -1,0 +1,6 @@
+C:\Users\Saulo\Desktop\Aprendiendo\Udemy\aprende-programacion-con-c-sharp-y-visual-studio-desde-cero\Mis ejemplos\EdadLegal\EdadLegal\bin\Debug\EdadLegal.exe.config
+C:\Users\Saulo\Desktop\Aprendiendo\Udemy\aprende-programacion-con-c-sharp-y-visual-studio-desde-cero\Mis ejemplos\EdadLegal\EdadLegal\bin\Debug\EdadLegal.exe
+C:\Users\Saulo\Desktop\Aprendiendo\Udemy\aprende-programacion-con-c-sharp-y-visual-studio-desde-cero\Mis ejemplos\EdadLegal\EdadLegal\bin\Debug\EdadLegal.pdb
+C:\Users\Saulo\Desktop\Aprendiendo\Udemy\aprende-programacion-con-c-sharp-y-visual-studio-desde-cero\Mis ejemplos\EdadLegal\EdadLegal\obj\Debug\EdadLegal.csprojResolveAssemblyReference.cache
+C:\Users\Saulo\Desktop\Aprendiendo\Udemy\aprende-programacion-con-c-sharp-y-visual-studio-desde-cero\Mis ejemplos\EdadLegal\EdadLegal\obj\Debug\EdadLegal.exe
+C:\Users\Saulo\Desktop\Aprendiendo\Udemy\aprende-programacion-con-c-sharp-y-visual-studio-desde-cero\Mis ejemplos\EdadLegal\EdadLegal\obj\Debug\EdadLegal.pdb
