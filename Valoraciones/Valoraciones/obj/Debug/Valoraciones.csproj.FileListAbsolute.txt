@@ -1,0 +1,11 @@
+C:\Users\Saulo\Desktop\Aprendiendo\Como programa en C#\Ejercicios de como programar en Java\Ejercicios\Capítulo 2\Valoraciones\Valoraciones\bin\Debug\Valoraciones.exe.config
+C:\Users\Saulo\Desktop\Aprendiendo\Como programa en C#\Ejercicios de como programar en Java\Ejercicios\Capítulo 2\Valoraciones\Valoraciones\bin\Debug\Valoraciones.exe
+C:\Users\Saulo\Desktop\Aprendiendo\Como programa en C#\Ejercicios de como programar en Java\Ejercicios\Capítulo 2\Valoraciones\Valoraciones\bin\Debug\Valoraciones.pdb
+C:\Users\Saulo\Desktop\Aprendiendo\Como programa en C#\Ejercicios de como programar en Java\Ejercicios\Capítulo 2\Valoraciones\Valoraciones\obj\Debug\Valoraciones.exe
+C:\Users\Saulo\Desktop\Aprendiendo\Como programa en C#\Ejercicios de como programar en Java\Ejercicios\Capítulo 2\Valoraciones\Valoraciones\obj\Debug\Valoraciones.pdb
+C:\Users\Saulo\Desktop\Aprendiendo\Udemy\aprende-programacion-con-c-sharp-y-visual-studio-desde-cero\Mis ejemplos\Valoraciones\Valoraciones\bin\Debug\Valoraciones.exe.config
+C:\Users\Saulo\Desktop\Aprendiendo\Udemy\aprende-programacion-con-c-sharp-y-visual-studio-desde-cero\Mis ejemplos\Valoraciones\Valoraciones\obj\Debug\Valoraciones.exe
+C:\Users\Saulo\Desktop\Aprendiendo\Udemy\aprende-programacion-con-c-sharp-y-visual-studio-desde-cero\Mis ejemplos\Valoraciones\Valoraciones\obj\Debug\Valoraciones.pdb
+C:\Users\Saulo\Desktop\Aprendiendo\Udemy\aprende-programacion-con-c-sharp-y-visual-studio-desde-cero\Mis ejemplos\Valoraciones\Valoraciones\bin\Debug\Valoraciones.exe
+C:\Users\Saulo\Desktop\Aprendiendo\Udemy\aprende-programacion-con-c-sharp-y-visual-studio-desde-cero\Mis ejemplos\Valoraciones\Valoraciones\bin\Debug\Valoraciones.pdb
+C:\Users\Saulo\Desktop\Aprendiendo\Udemy\aprende-programacion-con-c-sharp-y-visual-studio-desde-cero\Mis ejemplos\Valoraciones\Valoraciones\obj\Debug\Valoraciones.csprojResolveAssemblyReference.cache

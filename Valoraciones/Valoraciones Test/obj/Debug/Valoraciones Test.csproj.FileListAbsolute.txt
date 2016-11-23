@@ -1,0 +1,7 @@
+C:\Users\Saulo\Desktop\Aprendiendo\Udemy\aprende-programacion-con-c-sharp-y-visual-studio-desde-cero\Mis ejemplos\Valoraciones\Valoraciones Test\bin\Debug\Valoraciones Test.dll
+C:\Users\Saulo\Desktop\Aprendiendo\Udemy\aprende-programacion-con-c-sharp-y-visual-studio-desde-cero\Mis ejemplos\Valoraciones\Valoraciones Test\bin\Debug\Valoraciones Test.pdb
+C:\Users\Saulo\Desktop\Aprendiendo\Udemy\aprende-programacion-con-c-sharp-y-visual-studio-desde-cero\Mis ejemplos\Valoraciones\Valoraciones Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Saulo\Desktop\Aprendiendo\Udemy\aprende-programacion-con-c-sharp-y-visual-studio-desde-cero\Mis ejemplos\Valoraciones\Valoraciones Test\bin\Debug\es\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\Saulo\Desktop\Aprendiendo\Udemy\aprende-programacion-con-c-sharp-y-visual-studio-desde-cero\Mis ejemplos\Valoraciones\Valoraciones Test\obj\Debug\Valoraciones Test.csprojResolveAssemblyReference.cache
+C:\Users\Saulo\Desktop\Aprendiendo\Udemy\aprende-programacion-con-c-sharp-y-visual-studio-desde-cero\Mis ejemplos\Valoraciones\Valoraciones Test\obj\Debug\Valoraciones Test.dll
+C:\Users\Saulo\Desktop\Aprendiendo\Udemy\aprende-programacion-con-c-sharp-y-visual-studio-desde-cero\Mis ejemplos\Valoraciones\Valoraciones Test\obj\Debug\Valoraciones Test.pdb
