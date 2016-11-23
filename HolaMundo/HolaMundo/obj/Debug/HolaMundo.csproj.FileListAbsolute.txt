@@ -1,0 +1,5 @@
+C:\Users\Saulo\Desktop\Aprendiendo\Udemy\aprende-programacion-con-c-sharp-y-visual-studio-desde-cero\Mis ejemplos\HolaMundo\HolaMundo\bin\Debug\HolaMundo.exe.config
+C:\Users\Saulo\Desktop\Aprendiendo\Udemy\aprende-programacion-con-c-sharp-y-visual-studio-desde-cero\Mis ejemplos\HolaMundo\HolaMundo\bin\Debug\HolaMundo.exe
+C:\Users\Saulo\Desktop\Aprendiendo\Udemy\aprende-programacion-con-c-sharp-y-visual-studio-desde-cero\Mis ejemplos\HolaMundo\HolaMundo\bin\Debug\HolaMundo.pdb
+C:\Users\Saulo\Desktop\Aprendiendo\Udemy\aprende-programacion-con-c-sharp-y-visual-studio-desde-cero\Mis ejemplos\HolaMundo\HolaMundo\obj\Debug\HolaMundo.exe
+C:\Users\Saulo\Desktop\Aprendiendo\Udemy\aprende-programacion-con-c-sharp-y-visual-studio-desde-cero\Mis ejemplos\HolaMundo\HolaMundo\obj\Debug\HolaMundo.pdb
