@@ -1,0 +1,6 @@
+C:\Users\Saulo\Desktop\Aprendiendo\Udemy\aprende-programacion-con-c-sharp-y-visual-studio-desde-cero\Mis ejemplos\Saludo\Saludo\bin\Debug\Saludo.exe.config
+C:\Users\Saulo\Desktop\Aprendiendo\Udemy\aprende-programacion-con-c-sharp-y-visual-studio-desde-cero\Mis ejemplos\Saludo\Saludo\bin\Debug\Saludo.exe
+C:\Users\Saulo\Desktop\Aprendiendo\Udemy\aprende-programacion-con-c-sharp-y-visual-studio-desde-cero\Mis ejemplos\Saludo\Saludo\bin\Debug\Saludo.pdb
+C:\Users\Saulo\Desktop\Aprendiendo\Udemy\aprende-programacion-con-c-sharp-y-visual-studio-desde-cero\Mis ejemplos\Saludo\Saludo\obj\Debug\Saludo.exe
+C:\Users\Saulo\Desktop\Aprendiendo\Udemy\aprende-programacion-con-c-sharp-y-visual-studio-desde-cero\Mis ejemplos\Saludo\Saludo\obj\Debug\Saludo.pdb
+C:\Users\Saulo\Desktop\Aprendiendo\Udemy\aprende-programacion-con-c-sharp-y-visual-studio-desde-cero\Mis ejemplos\Saludo\Saludo\obj\Debug\Saludo.csprojResolveAssemblyReference.cache
