@@ -18,7 +18,7 @@ namespace EdadLegal
             }
             else
             {
-                Console.WriteLine("Tu nombre es {0} y legalmente no eres mayor de edad", nombre);
+                Console.WriteLine("Tu nombre es {0} y legalmente no eres mayor de edad.", nombre);
             }
 
         }
