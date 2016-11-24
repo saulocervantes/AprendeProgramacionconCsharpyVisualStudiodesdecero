@@ -16,9 +16,49 @@ namespace Valoraciones.Test
             LibroValoraciones libro = new LibroValoraciones();
 
             libro.AgregarValoracion(5);
+            libro.AgregarValoracion(4);
+            libro.AgregarValoracion(3);
+            libro.AgregarValoracion(0.5f);
+            libro.AgregarValoracion(1);
+            libro.AgregarValoracion(3.5f);
+
             CalcularValoraciones resultado = libro.PublicarValoraciones();
 
             Assert.AreEqual(5,resultado.valoracionMax);
+        }
+
+        [TestMethod]
+        public void CalcularValoracionMin()
+        {
+            LibroValoraciones libro = new LibroValoraciones();
+
+            libro.AgregarValoracion(5);
+            libro.AgregarValoracion(4);
+            libro.AgregarValoracion(3);
+            libro.AgregarValoracion(0.5f);
+            libro.AgregarValoracion(1);
+            libro.AgregarValoracion(3.5f);
+
+            CalcularValoraciones resultado = libro.PublicarValoraciones();
+
+            Assert.AreEqual(0.5,resultado.valoracionMin);
+        }
+
+        [TestMethod]
+        public void CalcularValoracionPromedio()
+        {
+            LibroValoraciones libro = new LibroValoraciones();
+
+            libro.AgregarValoracion(5);
+            libro.AgregarValoracion(4);
+            libro.AgregarValoracion(3);
+            libro.AgregarValoracion(0.5f);
+            libro.AgregarValoracion(1);
+            libro.AgregarValoracion(3.5f);
+
+            CalcularValoraciones resultado = libro.PublicarValoraciones();
+
+            Assert.AreEqual(2.83333,resultado.promedioValoraciones, 0.01);
         }
         
     }
