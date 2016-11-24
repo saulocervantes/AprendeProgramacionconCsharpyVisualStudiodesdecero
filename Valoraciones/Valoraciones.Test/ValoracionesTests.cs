@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -6,8 +7,19 @@ using System.Threading.Tasks;
 
 namespace Valoraciones.Test
 {
-    class ValoracionesTests
+    [TestClass]
+    public class ValoracionesTests
     {
-        LibroValoraciones libro = new LibroValoraciones();
+        [TestMethod]
+        public void CalcularValoracionMax()
+        {
+            LibroValoraciones libro = new LibroValoraciones();
+
+            libro.AgregarValoracion(5);
+            CalcularValoraciones resultado = libro.PublicarValoraciones();
+
+            Assert.AreEqual(5,resultado.valoracionMax);
+        }
+        
     }
 }

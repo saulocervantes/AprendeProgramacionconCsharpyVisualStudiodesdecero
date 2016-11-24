@@ -5,3 +5,5 @@ C:\Users\Saulo\Desktop\Aprendiendo\Udemy\AprendeProgramacionconCsharpyVisualStud
 C:\Users\Saulo\Desktop\Aprendiendo\Udemy\AprendeProgramacionconCsharpyVisualStudiodesdecero\Valoraciones\Valoraciones.Test\obj\Debug\Valoraciones.Test.csprojResolveAssemblyReference.cache
 C:\Users\Saulo\Desktop\Aprendiendo\Udemy\AprendeProgramacionconCsharpyVisualStudiodesdecero\Valoraciones\Valoraciones.Test\obj\Debug\Valoraciones.Test.dll
 C:\Users\Saulo\Desktop\Aprendiendo\Udemy\AprendeProgramacionconCsharpyVisualStudiodesdecero\Valoraciones\Valoraciones.Test\obj\Debug\Valoraciones.Test.pdb
+C:\Users\Saulo\Desktop\Aprendiendo\Udemy\AprendeProgramacionconCsharpyVisualStudiodesdecero\Valoraciones\Valoraciones.Test\bin\Debug\Valoraciones.exe
+C:\Users\Saulo\Desktop\Aprendiendo\Udemy\AprendeProgramacionconCsharpyVisualStudiodesdecero\Valoraciones\Valoraciones.Test\bin\Debug\Valoraciones.pdb

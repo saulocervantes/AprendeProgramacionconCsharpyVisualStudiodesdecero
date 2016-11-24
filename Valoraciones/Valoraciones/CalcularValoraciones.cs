@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Valoraciones
 {
-    class CalcularValoraciones
+    public class CalcularValoraciones
     {
         public float valoracionMax;
         public float valoracionMin;
