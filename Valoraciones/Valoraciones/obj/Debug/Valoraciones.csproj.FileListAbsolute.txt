@@ -9,3 +9,9 @@ C:\Users\Saulo\Desktop\Aprendiendo\Udemy\aprende-programacion-con-c-sharp-y-visu
 C:\Users\Saulo\Desktop\Aprendiendo\Udemy\aprende-programacion-con-c-sharp-y-visual-studio-desde-cero\Mis ejemplos\Valoraciones\Valoraciones\bin\Debug\Valoraciones.exe
 C:\Users\Saulo\Desktop\Aprendiendo\Udemy\aprende-programacion-con-c-sharp-y-visual-studio-desde-cero\Mis ejemplos\Valoraciones\Valoraciones\bin\Debug\Valoraciones.pdb
 C:\Users\Saulo\Desktop\Aprendiendo\Udemy\aprende-programacion-con-c-sharp-y-visual-studio-desde-cero\Mis ejemplos\Valoraciones\Valoraciones\obj\Debug\Valoraciones.csprojResolveAssemblyReference.cache
+C:\Users\Saulo\Desktop\Aprendiendo\Udemy\AprendeProgramacionconCsharpyVisualStudiodesdecero\Valoraciones\Valoraciones\bin\Debug\Valoraciones.exe.config
+C:\Users\Saulo\Desktop\Aprendiendo\Udemy\AprendeProgramacionconCsharpyVisualStudiodesdecero\Valoraciones\Valoraciones\obj\Debug\Valoraciones.exe
+C:\Users\Saulo\Desktop\Aprendiendo\Udemy\AprendeProgramacionconCsharpyVisualStudiodesdecero\Valoraciones\Valoraciones\obj\Debug\Valoraciones.pdb
+C:\Users\Saulo\Desktop\Aprendiendo\Udemy\AprendeProgramacionconCsharpyVisualStudiodesdecero\Valoraciones\Valoraciones\bin\Debug\Valoraciones.exe
+C:\Users\Saulo\Desktop\Aprendiendo\Udemy\AprendeProgramacionconCsharpyVisualStudiodesdecero\Valoraciones\Valoraciones\bin\Debug\Valoraciones.pdb
+C:\Users\Saulo\Desktop\Aprendiendo\Udemy\AprendeProgramacionconCsharpyVisualStudiodesdecero\Valoraciones\Valoraciones\obj\Debug\Valoraciones.csprojResolveAssemblyReference.cache

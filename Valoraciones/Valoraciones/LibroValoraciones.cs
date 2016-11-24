@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Valoraciones
 {
-    class LibroValoraciones
+    public class LibroValoraciones
     {
 
         public List<float> valoraciones;
