@@ -13,7 +13,12 @@ namespace Valoraciones
         {
             // Crear el objeto libro
             LibroValoraciones libro = new LibroValoraciones();
+            MisArrays miArray = new MisArrays();
             libro.Idioma = IdiomaLibro.ES;
+
+            // Métodos
+            miArray.ArrayTrabajando();
+
             //SpeechSynthesizer hablar = new SpeechSynthesizer();
             Vector3D miVector;
             miVector.x = 10;

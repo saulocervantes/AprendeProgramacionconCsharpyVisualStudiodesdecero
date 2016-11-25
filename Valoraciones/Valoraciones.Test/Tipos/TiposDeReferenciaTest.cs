@@ -21,5 +21,35 @@ namespace Valoraciones.Test.Tipos
 
             Assert.AreEqual(l1.Nombre, l2.Nombre);
         }
+
+        [TestMethod]
+        public void MyArrayTestMethod()
+        {
+            letras = new string[3];
+            AgregarLetra("A");
+
+            Assert.AreEqual("A",letras[0]);
+        }
+
+        [TestMethod]
+        public void IntTestMethod()
+        {
+            numerosReferencia = new int[3];
+            numerosReferencia[0] = 1;
+            numerosReferencia[1] = 2;
+            numerosReferencia[2] = 3;
+
+            int[] numerosReferencia2 = numerosReferencia;
+
+            Assert.AreEqual(numerosReferencia[0],numerosReferencia2[0]);
+        }
+
+        void AgregarLetra(string L)
+        {
+            letras[0] = L;
+        }
+
+        string[] letras;
+        int[] numerosReferencia;
     }
 }
