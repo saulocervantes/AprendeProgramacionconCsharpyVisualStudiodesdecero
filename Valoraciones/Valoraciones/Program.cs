@@ -14,6 +14,10 @@ namespace Valoraciones
             // Crear el objeto libro
             LibroValoraciones libro = new LibroValoraciones();
             //SpeechSynthesizer hablar = new SpeechSynthesizer();
+            Vector3D miVector;
+            miVector.x = 10;
+            miVector.y = 20;
+            miVector.z = 30.30f;
 
             // Asignar valoraciones
             libro.AgregarValoracion(5);
