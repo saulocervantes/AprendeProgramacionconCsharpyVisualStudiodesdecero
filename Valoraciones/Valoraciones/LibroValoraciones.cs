@@ -9,7 +9,7 @@ namespace Valoraciones
     public class LibroValoraciones
     {
         public string Nombre;
-
+        public IdiomaLibro Idioma;
         List<float> valoraciones;
 
         public LibroValoraciones()

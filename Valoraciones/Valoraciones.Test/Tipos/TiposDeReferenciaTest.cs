@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 namespace Valoraciones.Test.Tipos
 {
     [TestClass]
-    public class TiposDeReferencia
+    public class TiposDeReferenciaTest
     {
         [TestMethod]
         public void VariablesTipoReferencia()

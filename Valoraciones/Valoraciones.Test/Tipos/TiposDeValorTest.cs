@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 namespace Valoraciones.Test.Tipos
 {
     [TestClass]
-    public class TiposDeValor
+    public class TiposDeValorTest
     {
         /*
         int x;
@@ -24,6 +24,15 @@ namespace Valoraciones.Test.Tipos
             int x2 = x1;
 
             Assert.AreEqual(x1,x2);
+        }
+
+        [TestMethod]
+        public void VariableTiposDeValorEnum()
+        {
+            LibroValoraciones libro = new LibroValoraciones();
+            libro.Idioma = IdiomaLibro.ES;
+
+            Assert.AreEqual(libro.Idioma,IdiomaLibro.ES);
         }
     }
 }
