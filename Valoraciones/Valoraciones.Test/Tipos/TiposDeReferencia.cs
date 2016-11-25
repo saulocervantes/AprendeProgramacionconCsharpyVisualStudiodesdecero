@@ -17,10 +17,7 @@ namespace Valoraciones.Test.Tipos
             l1.Nombre = "Libro Mariano";
 
             LibroValoraciones l2 = l1;
-
             l1.Nombre = "Libro ...";
-
-            l1 = new LibroValoraciones();
 
             Assert.AreEqual(l1.Nombre, l2.Nombre);
         }
