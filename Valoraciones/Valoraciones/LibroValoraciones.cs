@@ -6,8 +6,14 @@ using System.Threading.Tasks;
 
 namespace Valoraciones
 {
+    public enum IdiomaLibro
+    {
+        none, EN, ES, GE, IT
+    }
+
     public class LibroValoraciones
     {
+        
         public string Nombre;
         public IdiomaLibro Idioma;
         List<float> valoraciones;

@@ -45,7 +45,6 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="CalcularValoraciones.cs" />
-    <Compile Include="IdiomaLibro.cs" />
     <Compile Include="LibroValoraciones.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
