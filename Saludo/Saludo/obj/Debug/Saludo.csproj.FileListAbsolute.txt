@@ -4,3 +4,6 @@ C:\Users\Saulo\Desktop\Aprendiendo\Udemy\aprende-programacion-con-c-sharp-y-visu
 C:\Users\Saulo\Desktop\Aprendiendo\Udemy\aprende-programacion-con-c-sharp-y-visual-studio-desde-cero\Mis ejemplos\Saludo\Saludo\obj\Debug\Saludo.exe
 C:\Users\Saulo\Desktop\Aprendiendo\Udemy\aprende-programacion-con-c-sharp-y-visual-studio-desde-cero\Mis ejemplos\Saludo\Saludo\obj\Debug\Saludo.pdb
 C:\Users\Saulo\Desktop\Aprendiendo\Udemy\aprende-programacion-con-c-sharp-y-visual-studio-desde-cero\Mis ejemplos\Saludo\Saludo\obj\Debug\Saludo.csprojResolveAssemblyReference.cache
+C:\Users\Saulo\Desktop\Aprendiendo\Udemy\AprendeProgramacionconCsharpyVisualStudiodesdecero\Saludo\Saludo\bin\Debug\Saludo.exe.config
+C:\Users\Saulo\Desktop\Aprendiendo\Udemy\AprendeProgramacionconCsharpyVisualStudiodesdecero\Saludo\Saludo\obj\Debug\Saludo.exe
+C:\Users\Saulo\Desktop\Aprendiendo\Udemy\AprendeProgramacionconCsharpyVisualStudiodesdecero\Saludo\Saludo\obj\Debug\Saludo.pdb
