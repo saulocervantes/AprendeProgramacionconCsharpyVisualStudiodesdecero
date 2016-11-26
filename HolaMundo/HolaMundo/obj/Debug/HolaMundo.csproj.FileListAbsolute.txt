@@ -6,3 +6,6 @@ C:\Users\Saulo\Desktop\Aprendiendo\Udemy\aprende-programacion-con-c-sharp-y-visu
 C:\Users\Saulo\Desktop\Aprendiendo\Udemy\aprende-programacion-con-c-sharp-y-visual-studio-desde-cero\AprendeProgramacionconCsharpyVisualStudiodesdecero\HolaMundo\HolaMundo\bin\Debug\HolaMundo.exe.config
 C:\Users\Saulo\Desktop\Aprendiendo\Udemy\aprende-programacion-con-c-sharp-y-visual-studio-desde-cero\AprendeProgramacionconCsharpyVisualStudiodesdecero\HolaMundo\HolaMundo\obj\Debug\HolaMundo.exe
 C:\Users\Saulo\Desktop\Aprendiendo\Udemy\aprende-programacion-con-c-sharp-y-visual-studio-desde-cero\AprendeProgramacionconCsharpyVisualStudiodesdecero\HolaMundo\HolaMundo\obj\Debug\HolaMundo.pdb
+C:\Users\Saulo\Desktop\Aprendiendo\Udemy\AprendeProgramacionconCsharpyVisualStudiodesdecero\HolaMundo\HolaMundo\bin\Debug\HolaMundo.exe.config
+C:\Users\Saulo\Desktop\Aprendiendo\Udemy\AprendeProgramacionconCsharpyVisualStudiodesdecero\HolaMundo\HolaMundo\obj\Debug\HolaMundo.exe
+C:\Users\Saulo\Desktop\Aprendiendo\Udemy\AprendeProgramacionconCsharpyVisualStudiodesdecero\HolaMundo\HolaMundo\obj\Debug\HolaMundo.pdb
